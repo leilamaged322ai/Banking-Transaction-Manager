@@ -54,7 +54,7 @@ How to Run
 
 1. Install Python.
 2. Open the project in a Python editor such as VS Code.
-3. Run "banking_system.py".
+3. Run "Banking_Leila.py".
 4. Follow the instructions in the console.
 
 What I Learned
